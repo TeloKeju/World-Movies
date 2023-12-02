@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Quicksand:wght@500;700&family=Rubik:wght@400;700&display=swap');
+
+* {
+    font-family: 'IBM Plex Mono';
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    width: 90%;
+    max-width: 800px;
+    margin: 32 auto;
+}
+
+movie-list {
+    display: block;
+    margin-top: 32px;
+    width: 100%;
+    padding: 16px;
+}
